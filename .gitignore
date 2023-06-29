@@ -1,3 +1,11 @@
+checkpoint/
+data/
+work_dir/
+.vscode/
+refine_data/
+en_vectors_web_lg-2.1.0.tar.gz
+partial_train.sh
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
